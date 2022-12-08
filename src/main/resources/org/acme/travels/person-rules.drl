@@ -21,7 +21,7 @@ import org.acme.travels.Person;
 rule "Is adult" ruleflow-group "person"
 
 when
-    $person: Person(age > 00)
+    $person: Person(age > 0000)
 then
     modify($person) { 
     	setAdult(true) 
