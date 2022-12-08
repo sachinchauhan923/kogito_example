@@ -2,7 +2,7 @@
 
 ## Description
 
-A quickstart project that shows the use of business rules and processes
+A quickstart project that shows the use of business rules and processe
 
 This example shows
 
